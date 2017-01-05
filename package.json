@@ -1,0 +1,28 @@
+{
+  "name": "sqlfinal",
+  "version": "1.0.0",
+  "description": "sql express node postgres",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zezemanolo/adhesive-tanager-sql-dataviz.git"
+  },
+  "keywords": [
+    "sql",
+    "postgres",
+    "express",
+    "datavis"
+  ],
+  "author": "zeze",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zezemanolo/adhesive-tanager-sql-dataviz/issues"
+  },
+  "homepage": "https://github.com/zezemanolo/adhesive-tanager-sql-dataviz#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
