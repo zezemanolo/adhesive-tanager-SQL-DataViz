@@ -1,0 +1,32 @@
+{
+  "name": "sql3",
+  "version": "1.0.0",
+  "description": "sql node datavis zzs lg",
+  "main": "index.js",
+  "scripts": {
+    "webpack": "node_modules/.bin/webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zezemanolo/adhesive-tanager-SQL-DataViz.git"
+  },
+  "keywords": [
+    "zzslg",
+    "sql",
+    "node",
+    "express",
+    "datavis"
+  ],
+  "author": "zzs and djb",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zezemanolo/adhesive-tanager-SQL-DataViz/issues"
+  },
+  "homepage": "https://github.com/zezemanolo/adhesive-tanager-SQL-DataViz#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  },
+  "devDependencies": {
+    "webpack": "^1.14.0"
+  }
+}
