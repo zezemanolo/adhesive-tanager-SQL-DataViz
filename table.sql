@@ -1,3 +1,6 @@
+-- TABLE genrebender in node_hero db
+-- for reference:
+
 DROP TABLE IF EXISTS genrebender;
 
 CREATE TABLE genrebender (

@@ -1,3 +1,9 @@
+# BJ and ZEZE do some SQL + Data Visualization
+
+##Our goal is to achieve project completion by fulfilling the three specs provided in the issue below: 1) Complete SQL Tutorials, 2) create a database (and a table to work with), and 3) build an app that displays data queries
+
+## Using express to connect to local server, pg module to "read" the database data (postgresql), and may need pg-promise + pug down the road
+
 ## Description
 
 #### 1. Complete any combination of these SQL tutorials:
